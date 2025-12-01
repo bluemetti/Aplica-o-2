@@ -1,4 +1,4 @@
-# 💡 Lâmpada Inteligente IoT (Smart Lamp)
+# 💡 Lâmpada Inteligente IoT (Smart Lamp) kakakakaakakakaka
 
 Este projeto consiste em um sistema de iluminação inteligente baseado no microcontrolador **ESP32 Dev Kit V1**, integrado à plataforma **Arduino IoT Cloud**. O sistema permite o controle híbrido (físico e remoto), monitoramento ambiental e possui sistemas de segurança autônomos.
 
